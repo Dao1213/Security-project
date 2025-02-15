@@ -19,9 +19,3 @@ This project is a **secure file sharing system** developed in **Go**, designed t
 2. **File Encryption & Upload**: Symmetric encryption before storage.
 3. **File Sharing**: Uses asymmetric encryption for secure key exchange.
 4. **Access Control**: Only authorized users can decrypt shared files.
-
-## Why It Matters
-This project demonstrates **real-world security principles** used in **cloud storage and messaging apps** like Google Drive, Signal, and Dropbox.
-
----
-📌 **Looking for security-related roles? Let’s connect!** 🚀
