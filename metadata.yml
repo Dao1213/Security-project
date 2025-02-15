@@ -1,0 +1,12 @@
+---
+:id: 284924214
+:submitters:
+- :name: Dung Dao
+  :email: austindao90_1213@berkeley.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-11-03 01:35:43.984546000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-11-02 18:35:43.984546000 Z
+:status: processed
+:score: 70.8496
